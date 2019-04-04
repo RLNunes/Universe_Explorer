@@ -1,4 +1,4 @@
-package pt.rln.worldgen;
+package pt.rln.universe_explorer;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
