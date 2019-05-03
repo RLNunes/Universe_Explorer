@@ -15,4 +15,15 @@
     <string name="menu_home_planet">Show Home Planet</string>
     <string name="planet_photos">Planet Photos</string>
     <string name="return_to_home_screen">Return to Home Screen</string>
+    <string-array name="image_ids">
+        <item>@drawable/image_1</item>
+        <item>@drawable/image_2</item>
+        <item>@drawable/image_3</item>
+        <item>@drawable/image_4</item>
+        <item>@drawable/image_5</item>
+        <item>@drawable/image_6</item>
+        <item>@drawable/image_7</item>
+        <item>@drawable/image_8</item>
+        <item>@drawable/image_9</item>
+    </string-array>
 </resources>
